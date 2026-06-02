@@ -1,6 +1,6 @@
 {
   "name": "autoc",
-  "version": "0.1.2",
+  "version": "0.1.8",
   "description": "BSW configuration subagent powered by AutoC",
   "author": {
     "name": "AutoC"

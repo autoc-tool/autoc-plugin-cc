@@ -26,12 +26,16 @@ claude --plugin-dir ./plugins/autoc
 
 ## Use
 
-```
-根据 mcu_pins.csv 配置 Port 引脚
-```
-
-Or explicitly:
+Start Claude Code in your BSW project directory, then ask in natural language:
 
 ```
-Use autoc:bsw-config to fix Mcu validation errors
+帮我查看 mcu 的配置
+```
+
+Claude delegates to **`autoc:bsw-config`**, which runs `autoc -p "<your goal>"` — no XDM exploration.
+
+Continue a session:
+
+```
+autoc -c -p "<follow-up>"
 ```
