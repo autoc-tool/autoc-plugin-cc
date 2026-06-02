@@ -1,22 +1,21 @@
 {
   "name": "autoc-tool",
   "owner": {
-    "name": "AutoC",
-    "url": "https://www.autoc-tool.com/"
+    "name": "AutoC"
   },
   "metadata": {
     "description": "AutoC BSW config subagent for Claude Code",
-    "version": "0.1.0"
+    "version": "0.1.1"
   },
   "plugins": [
     {
       "name": "autoc",
       "description": "BSW configuration subagent powered by AutoC",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "author": {
         "name": "AutoC"
       },
-      "homepage": "https://www.autoc-tool.com/",
+      "homepage": "https://github.com/autoc-tool/autoc-plugin-cc",
       "repository": "https://github.com/autoc-tool/autoc-plugin-cc",
       "source": "./plugins/autoc"
     }
