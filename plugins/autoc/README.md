@@ -1,5 +1,7 @@
 # autoc plugin
 
-BSW configuration subagent: **`autoc:bsw-config`**
+Subagent **`autoc:bsw-config`** — one command: `autoc -p "<task>"` in Claude Code's startup directory.
 
-Runs `autoc -p` in your project. See [repository README](../../README.md) for install instructions.
+Start `claude` from your EB/DaVinci project root, then ask in natural language or invoke `autoc:bsw-config`.
+
+See [repository README](../../README.md) for install.
