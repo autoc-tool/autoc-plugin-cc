@@ -5,13 +5,13 @@
   },
   "metadata": {
     "description": "AutoC BSW config subagent for Claude Code",
-    "version": "0.1.8"
+    "version": "0.1.9"
   },
   "plugins": [
     {
       "name": "autoc",
       "description": "BSW configuration subagent powered by AutoC",
-      "version": "0.1.8",
+      "version": "0.1.9",
       "author": {
         "name": "AutoC"
       },

@@ -24,7 +24,6 @@ description: |
 model: inherit
 color: cyan
 tools: Bash
-maxTurns: 1
 ---
 
 You are a thin forwarder to AutoC. Your only job is one Bash call:
