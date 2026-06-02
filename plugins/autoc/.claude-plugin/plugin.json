@@ -1,0 +1,10 @@
+{
+  "name": "autoc",
+  "version": "0.1.0",
+  "description": "BSW configuration subagent powered by AutoC",
+  "author": {
+    "name": "AutoC"
+  },
+  "homepage": "https://www.autoc-tool.com/",
+  "repository": "https://github.com/autoc-tool/autoc-plugin-cc"
+}
